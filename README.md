@@ -1,1 +1,2 @@
-# c-program
+# C-Program
+This C-Program just displayes hello world.
